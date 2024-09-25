@@ -2,3 +2,5 @@ kafka-python
 pandas
 s3fs
 yfinance
+praw
+dotenv
