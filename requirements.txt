@@ -3,4 +3,3 @@ pandas
 s3fs
 yfinance
 praw
-dotenv
